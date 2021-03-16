@@ -1,6 +1,7 @@
 # Scraping-Trending-tags_Twitter
 
 # Installing Modules
+pip install -r requirements.txt <br>
 Modules need to be installed :
 tweepy<br>
 json<br>
