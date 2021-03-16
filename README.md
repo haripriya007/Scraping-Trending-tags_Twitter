@@ -2,13 +2,13 @@
 
 # Installing Modules
 Modules need to be installed :
-tweepy
-json
-pymongo
-pandas
-DateTime
-parser
-datedelta
+tweepy<br>
+json<br>
+pymongo<br>
+pandas<br>
+DateTime<br>
+parser<br>
+datedelta<br>
 pytz
 
 # What is Tweepy?
